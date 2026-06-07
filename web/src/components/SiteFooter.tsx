@@ -12,6 +12,9 @@ export default function SiteFooter() {
         <a href={`${REPO_URL}/issues`}>Issues</a>
         <a href={`${REPO_URL}/wiki`}>Wiki</a>
         <a href={`${REPO_URL}/blob/main/CODE_OF_CONDUCT.md`}>Code of Conduct</a>
+        <a href="/terms">Terms</a>
+        <a href="/privacy">Privacy</a>
+        <a href="/disclaimer">Disclaimer</a>
       </div>
     </footer>
   );
